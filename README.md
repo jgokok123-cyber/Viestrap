@@ -2,7 +2,10 @@
   <h1>Viestrap</h1>
   <p>An alternative bootstrapper for Roblox, providing extra features and customizability.</p>
 
-  <!-- THÔNG ĐIỆP BẮT BUỘC - NỔI BẬT NHẤT -->
+  <!-- TỰ ĐỘNG TẢI PHIÊN BẢN MỚI NHẤT -->
+  <h1><a href="https://github.com">📥 [ DOWNLOAD VIESTRAP NOW ] 📥</a></h1>
+
+  <!-- THÔNG ĐIỆP BẮT BUỘC -->
   <h2>🔥 FUCK RBLX VNG 🔥</h2>
 
   <a href="https://github.com">
@@ -20,8 +23,8 @@
 > **TÍNH NĂNG VƯỢT CHẶN KHÔNG GIAN ĐỊA LÝ QUỐC TẾ:** Client này được tích hợp giải pháp tối ưu độc quyền do chính người Việt phát triển, giúp toàn bộ cộng đồng game thủ Việt Nam dễ dàng truy cập trực tiếp vào các server quốc tế, vượt qua hoàn toàn các lệnh chặn truy cập hiện tại từ phía VNG. Mọi người có thể thoải mái tham gia mượt mà vào các tựa game bị giới hạn như **Blox Fruits** và nhiều trò chơi khác mà không gặp bất kỳ trở ngại hay lỗi kết nối nào!
 
 <div align="center">
-  <!-- KHUNG ẢNH CỦA BẠN SẼ HIỂN THỊ Ở ĐÂY -->
-  <img src="duong-dan-anh-cua-ban.png" alt="Viestrap Preview" width="100%">
+  <!-- ẢNH MINH HỌA PHẦN MỀM -->
+  <img src="PASTE_LINK_ANH_VAO_DAY" alt="Viestrap Preview" width="100%">
 </div>
 
 ---
@@ -54,7 +57,7 @@ Chia sẻ các đường dẫn mời tùy chỉnh của Viestrap để kéo bạ
 ### Hướng dẫn cài đặt
 Bạn có thể cài đặt Viestrap theo một trong hai cách cực kỳ đơn giản sau:
 
-1. **Tải trực tiếp:** Truy cập vào mục **Releases** trên GitHub và tải về file cài đặt `.exe` mới nhất.
+1. **Tải trực tiếp:** Ấn vào dòng chữ **DOWNLOAD** ở đầu trang hoặc truy cập vào mục **Releases** trên GitHub và tải về file cài đặt `.exe` mới nhất.
 2. **Sử dụng lệnh Windows Terminal (Winget):**
    ```bash
    winget install viestrap
