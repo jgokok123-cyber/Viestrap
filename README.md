@@ -52,7 +52,6 @@ Nếu Viestrap không hoạt động đúng hoặc gặp lỗi khi khởi độn
 4. Sau khi chạy xong hãy **đợi máy tự Shutdown**. Nếu sau khoảng **15 giây** máy vẫn chưa tự tắt thì hãy **tự Shutdown**, sau đó mở máy lên và thử lại bằng **V2**.
 5. Nếu vẫn gặp lỗi, hãy **quay video** và gửi vào Discord để được hỗ trợ.
 
-> **Nếu V1 không khắc phục được thì hãy chuyển sang V2.**
 
 ---
 
