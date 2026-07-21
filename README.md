@@ -43,11 +43,11 @@
 # 📥 File Fix Guide
 
 Nếu Viestrap không hoạt động đúng hoặc gặp lỗi khi khởi động:
-
+AE ƯU TIÊN DÙNG V2 TRƯỚC RỒI ĐẾN V1 SAU
 1. Tải và cài đặt **Viestrap** trước.
 2. Tải **File Fix V1 + V2**.
 3. Chạy File Fix.
-4. Sau khi chạy xong hãy **Shutdown máy tính** rồi bật lại.
+4. Sau khi chạy xong hãy **Đợi Shutdown máy tính,mếu nó không tự shutdown sau nhiều nhất 15s thì tự shutdown và tải bản v2 về** rồi bật lại.
 5. Nếu vẫn còn lỗi, hãy **quay video** và gửi để được hỗ trợ.
 
 > **Ae nào dùng V1 không ăn thua thì tải V2 nhé.**
