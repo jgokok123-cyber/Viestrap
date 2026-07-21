@@ -84,8 +84,8 @@ Nếu Viestrap không hoạt động đúng hoặc gặp lỗi khi khởi độn
 # 📥 Cài đặt
 
 1. Truy cập **GitHub Releases** và tải phiên bản **Viestrap** mới nhất.
-2. Giải nén (nếu cần), sau đó chạy **Viestrap.exe**.
-3. Nếu **Windows Defender** hoặc phần mềm diệt virus hiển thị cảnh báo (**False Positive**), hãy đảm bảo bạn đã tải từ **GitHub Releases chính thức**. Có thể tạm thời tắt **Windows Security Real-time Protection** hoặc thêm Viestrap vào danh sách ngoại lệ trước khi khởi động ứng dụng.
+2. Chạy **Viestrap.exe**.
+3. Nếu **Windows Defender** hoặc phần mềm diệt virus hiển thị cảnh báo (**False Positive**), hãy đảm bảo bạn đã tải từ **GitHub Releases chính thức**. Có thể tạm thời tắt **Windows Security Real-time Protection** hoặc thêm Viestrap vào danh sách ngoại lệ trước khi khởi động ứng dụng.( tốt nhất là tắt ngay từ lúc tải, sau khi vô được roblox bật lại vẫn chưa muộn )
 4. Nếu gặp lỗi khi mở ứng dụng, hãy tải **File Fix (V1 + V2)** và làm theo hướng dẫn ở phía trên.
 5. Khởi động Roblox thông qua **Viestrap** và tận hưởng trải nghiệm.
 
