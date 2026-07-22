@@ -49,7 +49,7 @@ Nếu Viestrap không hoạt động đúng hoặc gặp lỗi khi khởi độn
 1. Tải và cài đặt **Viestrap** trước.
 2. Tải **File Fix (V1 + V2)**.
 3. Chạy File Fix.
-4. Sau khi chạy xong hãy **đợi máy tính tự Shutdown**. Nếu sau tối đa **15 giây** máy vẫn chưa tự tắt, hãy tự Shutdown rồi bật máy lại và thử với **V2**.
+4. Sau khi chạy xong hãy **đợi máy tính tự Shutdown**. Nếu sau tối đa **20 giây** máy vẫn chưa tự tắt, hãy tự Shutdown rồi bật máy lại và thử với **V1**.
 5. Nếu vẫn gặp lỗi, hãy **quay video** và gửi vào Discord để được hỗ trợ.
 
 > **Nếu V1 không khắc phục được vấn đề, hãy chuyển sang sử dụng V2.**
