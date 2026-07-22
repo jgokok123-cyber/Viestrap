@@ -36,7 +36,6 @@
 
 - Thêm **FFlag Injector**
 - Khắc phục lỗi ứng dụng tự khởi động lại khi mở
-- Giảm **VirusTotal False Positives**
 - Cải thiện độ ổn định của Launcher
 - Thêm **File Fix (V1 + V2)** dành cho người dùng gặp lỗi khởi động
 
