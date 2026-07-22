@@ -27,7 +27,7 @@
 ---
 # LƯU Ý !!!
 
-- Ai bật lên mà bị shutdown thì đừng lo, đó là 1 lỗi không nghiêm trọng đâu, nếu bị vậy thì ae đọc kỹ hướng dẫn tải và cách dùng của file fix nhé
+- Ai bật lên mà bị shutdown thì đừng lo, đó là 1 lỗi không nghiêm trọng đâu, nếu bị vậy thì ae đọc kỹ hướng dẫn tải và cách dùng của file fix nhé, cần thì có thể vô sv discord và inbox tài khoản discord của tôi, chúc ae sử dụng tốt !!!
 # 🔧 Cập nhật Viestrap V1.0.2 — Sửa lỗi & Cải tiến
 
 ## 📅 Cập nhật: 22/07/2026
